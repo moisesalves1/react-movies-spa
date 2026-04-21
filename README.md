@@ -1,5 +1,13 @@
 # Getting Started with Create React App
 
+## Environment Variables
+
+Create a `.env` file in the project root using `.env.example` as reference.
+
+Required variable:
+
+- `REACT_APP_TMDB_BEARER_TOKEN`: TMDB v4 Read Access Token (without the `Bearer ` prefix).
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
